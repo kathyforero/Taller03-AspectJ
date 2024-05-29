@@ -1,0 +1,5 @@
+Usuario Registrado: [nickname = sdfg, password = dfg] Fecha: [ Wed May 29 14:26:17 ECT 2024 ]
+Usuario Registrado: [nickname = ele, password = nig] Fecha: [ Wed May 29 14:28:34 ECT 2024 ]
+Usuario Registrado: [nickname = Kat, password = kitkat] Fecha: [ Wed May 29 14:37:55 ECT 2024 ]
+Usuario Registrado: [nickname = DERS, password = ola] Fecha: [ Wed May 29 14:39:56 ECT 2024 ]
+Usuario Registrado: [nickname = Cecilita, password = chocolate] Fecha: [ Wed May 29 14:40:41 ECT 2024 ]

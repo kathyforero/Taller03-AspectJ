@@ -1,0 +1,8 @@
+Sesion iniciada por usuario: [ele] Fecha: [ Wed May 29 14:28:39 ECT 2024 ]
+Sesion cerradapor usuario: [ele] Fecha: [ Wed May 29 14:28:42 ECT 2024 ]
+Sesion iniciada por usuario: [Kat] 	Fecha: [ Wed May 29 14:38:03 ECT 2024 ]
+Sesion cerrada por usuario: [Kat] 	Fecha: [ Wed May 29 14:38:05 ECT 2024 ]
+Sesion iniciada por usuario: [DERS] 	Fecha: [ Wed May 29 14:40:02 ECT 2024 ]
+Sesion cerrada por usuario: [DERS] 	Fecha: [ Wed May 29 14:40:05 ECT 2024 ]
+Sesion iniciada por usuario: [Cecilita] 	Fecha: [ Wed May 29 14:40:49 ECT 2024 ]
+Sesion cerrada por usuario: [Cecilita] 	Fecha: [ Wed May 29 14:40:50 ECT 2024 ]
